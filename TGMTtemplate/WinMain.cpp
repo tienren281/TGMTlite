@@ -4,6 +4,7 @@
 #include "stdafx.h"
 #include <tchar.h>
 #include "CameraExample.h"
+#include <iostream>
 
 int _tmain(int argc, _TCHAR* argv[])
 {
